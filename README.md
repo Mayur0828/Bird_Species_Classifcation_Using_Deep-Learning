@@ -7,3 +7,6 @@ The models being used are:
 
 1) Convolutional Neural Network(CNN)
 2) Recurrence Neural Network(RNN)
+
+
+And For Visual Representation, I am using Streamlit Frameworkin python
