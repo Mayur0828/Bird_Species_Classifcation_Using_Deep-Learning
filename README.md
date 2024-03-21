@@ -10,6 +10,3 @@ The models being used are:
    
 
    Here, I am using VGG16 Pretrained Model which is a standard model provided by CNN.
-
-
-And For Visual Representation, I am using Streamlit Frameworkin python
