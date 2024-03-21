@@ -8,5 +8,4 @@ The models being used are:
 1) Convolutional Neural Network(CNN)
 2) Recurrence Neural Network(RNN)
    
-
-   Here, I am using VGG16 Pretrained Model which is a standard model provided by CNN.
+Here, I am using VGG16 Pretrained Model which is a standard model provided by CNN.
