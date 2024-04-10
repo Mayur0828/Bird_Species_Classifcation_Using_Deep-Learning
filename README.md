@@ -12,5 +12,6 @@ The models being used are:
 1) Convolutional Neural Network(CNN)
 2) VGG16
 3) RestNet101
+4) InceptionV3
    
 Here, I am using VGG16 Pretrained Model which is a standard model provided by CNN.
