@@ -14,4 +14,4 @@ The models being used are:
 3) RestNet101
 4) InceptionV3
    
-Here, I am using VGG16 Pretrained Model which is a standard model provided by CNN.
+Here, After using different models I can conclude that a visual geometry group(Vgg)16 is giving a better accuracy than the rest of models.
